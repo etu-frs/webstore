@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "name": "Techno Mart",
+  "description": "",
+  "prompt": ""
+}
